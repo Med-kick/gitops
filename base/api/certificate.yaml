@@ -1,0 +1,11 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: api-medkick-raajpatel-dev-tls
+spec:
+  dnsNames:
+    - api.medkick.raajpatel.dev
+  issuerRef:
+    kind: ClusterIssuer
+    name: letsencrypt
+  secretName: api-medkick-raajpatel-dev-tls
