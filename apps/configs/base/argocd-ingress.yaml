@@ -11,7 +11,7 @@ metadata:
     nginx.ingress.kubernetes.io/backend-protocol: "HTTPS"
 spec:
   rules:
-    - host: argo.medkick.raajpatel.dev
+    - host: argo.medkick.air.business
       http:
         paths:
           - path: /
@@ -23,5 +23,5 @@ spec:
                   name: https
   tls:
     - hosts:
-        - argo.medkick.raajpatel.dev
+        - argo.medkick.air.business
       secretName: argocd-secret
