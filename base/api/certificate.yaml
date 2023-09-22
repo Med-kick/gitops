@@ -4,7 +4,7 @@ metadata:
   name: api-medkick-raajpatel-dev-tls
 spec:
   dnsNames:
-    - api.medkick.raajpatel.dev
+    - api.medkick.air.business
   issuerRef:
     kind: ClusterIssuer
     name: letsencrypt
