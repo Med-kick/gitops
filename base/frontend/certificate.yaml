@@ -1,0 +1,11 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: www-medkick-air-business-tls
+spec:
+  dnsNames:
+    - www.medkick.air.business
+  issuerRef:
+    kind: ClusterIssuer
+    name: letsencrypt
+  secretName: www-medkick-air-business-tls
