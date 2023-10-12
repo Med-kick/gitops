@@ -6,7 +6,7 @@ resources:
 images:
 - name: raajpatel229/medkick-api
   newName: raajpatel229/medkick-api
-  newTag: 325a8c3e5c831933f9791d39f7f969859b2a783d
+  newTag: c64e3a55e7251db5d5e9d757cbccfab0f9d88f28
 - name: raajpatel229/medkick-frontend
   newName: raajpatel229/medkick-frontend
   newTag: 46b690971a282f2ea8a79edd39193958a33fb17d
