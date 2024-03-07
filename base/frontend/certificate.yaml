@@ -9,9 +9,7 @@ spec:
     kind: ClusterIssuer
     name: letsencrypt
   secretName: www-medkick-air-business-tls
-
 ---
-
 apiVersion: cert-manager.io/v1
 kind: Certificate
 metadata:
