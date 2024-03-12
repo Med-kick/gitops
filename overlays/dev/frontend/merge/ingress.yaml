@@ -4,6 +4,9 @@ metadata:
   name: frontend-ingress
   labels:
     app: frontend
+  annotations:
+    kubernetes.io/ingress.class: "nginx"
+    cert-manager.io/cluster-issuer: "letsencrypt"
 spec:
   ingressClassName: nginx
   rules:
