@@ -19,5 +19,5 @@ spec:
             pathType: Prefix
   tls:
     - hosts:
-        - api.medkick-rpm.com
+        - api-prod.medkick-rpm.com
       secretName: api-medkick-rpm-com-tls
