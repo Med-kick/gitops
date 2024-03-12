@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: api.medkick-rpm.com
+    - host: api-prod.medkick-rpm.com
       http:
         paths:
           - backend:
