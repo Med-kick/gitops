@@ -1,7 +1,7 @@
 apiVersion: cert-manager.io/v1
 kind: Certificate
 metadata:
-  name: api-dev-medkick-rpm-com-tls
+  name: api-medkick-rpm-com-tls
 spec:
   dnsNames:
   - api-dev.medkick-rpm.com
