@@ -4,7 +4,6 @@ metadata:
   name: www-medkick-rpm-com-tls
 spec:
   dnsNames:
-    - medkick-rpm.com
     - www.medkick-rpm.com
   issuerRef:
     kind: ClusterIssuer
