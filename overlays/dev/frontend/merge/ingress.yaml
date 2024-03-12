@@ -20,4 +20,4 @@ spec:
   tls:
   - hosts:
     - development.medkick-rpm.com
-    secretName: www-dev-medkick-rpm-com-tls
+    secretName: www-medkick-rpm-com-tls
