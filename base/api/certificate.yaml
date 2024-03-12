@@ -4,7 +4,7 @@ metadata:
   name: api-medkick-rpm-com-tls
 spec:
   dnsNames:
-    - api.medkick-rpm.com
+    - api-prod.medkick-rpm.com
   issuerRef:
     kind: ClusterIssuer
     name: letsencrypt
