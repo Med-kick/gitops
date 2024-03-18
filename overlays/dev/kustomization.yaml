@@ -9,7 +9,7 @@ images:
   newTag: 648ce7c5f956718507bf0cec3d1bd9d83a670919
 - name: raajpatel229/medkick-frontend
   newName: raajpatel229/medkick-frontend
-  newTag: 70c6a5e17e7a7859528ca09f2ae04b5d6f9c1b3e
+  newTag: 9a89b37068f4e937ac5ca557b681927fc669ab14
 patchesStrategicMerge:
 - api/merge/certificate.yaml
 - api/merge/ingress.yaml
