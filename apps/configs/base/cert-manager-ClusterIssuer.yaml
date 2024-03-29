@@ -4,7 +4,7 @@ metadata:
   name: letsencrypt
 spec:
   acme:
-    email: "raaj.patel229@gmail.com"
+    email: "dev@air.business"
     server: "https://acme-v02.api.letsencrypt.org/directory"
     privateKeySecretRef:
       name: letsencrypt
