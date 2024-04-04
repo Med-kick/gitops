@@ -10,3 +10,6 @@ images:
 - name: airdevops/medkick-frontend
   newName: airdevops/medkick-frontend
   newTag: 034d83a1e902466ca86e8955365e8b52a9590c07
+- name: raajpatel229/medkick-frontend
+  newName: raajpatel229/medkick-frontend
+  newTag: e7985f615840f3c9aecfa4a688b98da85d6e4e98
