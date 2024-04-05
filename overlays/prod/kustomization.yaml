@@ -13,3 +13,6 @@ images:
 - name: medkickdevops/rpmsoftware-api
   newName: medkickdevops/rpmsoftware-api
   newTag: 4fd693b59ab3a0980abec9e8e571a5f2310f6d6a
+- name: medkickdevops/rpmsoftware-frontend
+  newName: medkickdevops/rpmsoftware-frontend
+  newTag: 6a5f00826cb4f0b06132c1f3fdb6f358d80409d0
