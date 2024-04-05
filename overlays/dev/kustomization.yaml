@@ -9,7 +9,7 @@ images:
   newTag: 98f2126730d1e6b3df1dc8b974a41533b095ff4f
 - name: medkickdevops/rpmsoftware-frontend
   newName: medkickdevops/rpmsoftware-frontend
-  newTag: 3a9869532fbc8f9e2bd12a8db785303f6ce73489
+  newTag: 66997d17bd2f64301948ae624ee5bf18ef68772a
 patchesStrategicMerge:
 - api/merge/certificate.yaml
 - api/merge/ingress.yaml
