@@ -4,8 +4,8 @@ resources:
 - namespace.yaml
 - ../../base
 images:
-- name: medkickdevops/medkick-frontend
-  newName: medkickdevops/medkick-frontend
+- name: medkickdevops/rpmsoftware-frontend
+  newName: medkickdevops/rpmsoftware-frontend
   newTag: 034d83a1e902466ca86e8955365e8b52a9590c07
 - name: medkickdevops/rpmsoftware-api
   newName: medkickdevops/rpmsoftware-api
