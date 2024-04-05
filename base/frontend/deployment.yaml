@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: airdevops/medkick-frontend:latest
+          image: medkickdevops/medkick-frontend:latest
           ports:
             - containerPort: 80
           readinessProbe:
