@@ -6,7 +6,7 @@ resources:
 images:
 - name: airdevops/medkick-api
   newName: airdevops/medkick-api
-  newTag: ee96064cbe230edc0ef33a8794b9701bb5ff90d3
+  newTag: deafb0dde6684bbd28b283dfac57794b3db0f200
 - name: airdevops/medkick-frontend
   newName: airdevops/medkick-frontend
   newTag: 3a9869532fbc8f9e2bd12a8db785303f6ce73489
