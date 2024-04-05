@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: airdevops/medkick-api:latest
+          image: medkickdevops/medkick-api:latest
           ports:
             - containerPort: 3000
               protocol: TCP
