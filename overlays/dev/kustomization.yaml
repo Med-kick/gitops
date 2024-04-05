@@ -10,9 +10,9 @@ images:
 - name: medkickdevops/medkick-frontend
   newName: medkickdevops/medkick-frontend
   newTag: 3a9869532fbc8f9e2bd12a8db785303f6ce73489
-- name: medkickdevops/medkick-frontend
-  newName: medkickdevops/medkick-frontend
-  newTag: 768113cd8ee30e676ce230eedc78eef0b88863a8
+- name: medkickdevops/rpmsoftware-api
+  newName: medkickdevops/rpmsoftware-api
+  newTag: 4fd693b59ab3a0980abec9e8e571a5f2310f6d6a
 patchesStrategicMerge:
 - api/merge/certificate.yaml
 - api/merge/ingress.yaml
